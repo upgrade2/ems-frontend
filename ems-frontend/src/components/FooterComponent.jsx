@@ -1,15 +1,10 @@
-
-    <footer className="footer">
-
-    </footer>
-'react'
+import React from 'react'
 
 const FooterComponent = () => {
   return (
     <div>
-        <footer className="footer">
-            <span>All rights reserved via ajay @2024</span>
-
+        <footer className='footer'>
+            <span>All rights reserved 2023 by javaguides</span>
         </footer>
 
     </div>
